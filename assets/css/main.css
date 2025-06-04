@@ -2086,7 +2086,7 @@ input, select, textarea {
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #9b3d4f;
 		}
 
 /* Image */
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #136c7b;
 			color: #d3d4e4;
 		}
 
@@ -3997,3 +3997,15 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+#three > .inner > .features h3 {
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 700;
+}
+
+#three > .inner > .features p {
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	font-weight: 400;
+	font-size: medium;
+}
