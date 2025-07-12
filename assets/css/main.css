@@ -4009,3 +4009,27 @@ input, select, textarea {
 	font-weight: 400;
 	font-size: medium;
 }
+
+/*Additional Tweaks*/
+
+section.wrapper.style5 {
+	background-color: #563d2d;
+	color: #ffffff;
+}
+
+section.wrapper.style5 h4 {
+	color: #ffffff;
+}
+
+article#main > header {
+	background-image: url(../../images/Unnatural\ Hair\ Color.jpg) !important;
+}
+
+ul.actions input::placeholder{
+	color: #ffffff;
+}
+
+article#main > section#banner {
+	height: 30vh;
+	background-image: linear-gradient(to right, #000000, #136c7b)
+}
